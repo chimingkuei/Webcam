@@ -1,0 +1,132 @@
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\Webcam.exe.config
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\Webcam.exe
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\Webcam.pdb
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\HandyControl.dll
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\HandyControl.xml
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\UI\CheckBoxStyles.baml
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\UI\ComboBoxStyles.baml
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\UI\TextBoxStyles.baml
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\MainWindow.g.cs
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\App.g.cs
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\Webcam_MarkupCompile.cache
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\Webcam_MarkupCompile.lref
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\App.baml
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\MainWindow.baml
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\Webcam.g.resources
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\Webcam.Properties.Resources.resources
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\Webcam.csproj.GenerateResource.cache
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\Webcam.csproj.CoreCompileInputs.cache
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\Webcam.csproj.CopyComplete
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\Webcam.exe
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\Webcam.pdb
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\OpenCvSharp.dll
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\System.Buffers.dll
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\System.Memory.dll
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\System.ValueTuple.dll
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\OpenCvSharp.xml
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\System.Buffers.xml
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\System.Memory.xml
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\System.ValueTuple.xml
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\Webcam_Content.g.cs
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\System.Drawing.Common.dll
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\OpenCvSharp.Extensions.xml
+E:\Webcam\Webcam\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\Webcam\Webcam\bin\x64\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+E:\Webcam\Webcam\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\Webcam\Webcam\bin\x64\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+E:\Webcam\Webcam\bin\x64\Debug\Webcam.exe.config
+E:\Webcam\Webcam\bin\x64\Debug\Webcam.exe
+E:\Webcam\Webcam\bin\x64\Debug\Webcam.pdb
+E:\Webcam\Webcam\bin\x64\Debug\HandyControl.dll
+E:\Webcam\Webcam\bin\x64\Debug\Newtonsoft.Json.dll
+E:\Webcam\Webcam\bin\x64\Debug\OpenCvSharp.dll
+E:\Webcam\Webcam\bin\x64\Debug\OpenCvSharp.Extensions.dll
+E:\Webcam\Webcam\bin\x64\Debug\System.Buffers.dll
+E:\Webcam\Webcam\bin\x64\Debug\System.Drawing.Common.dll
+E:\Webcam\Webcam\bin\x64\Debug\System.Memory.dll
+E:\Webcam\Webcam\bin\x64\Debug\System.Numerics.Vectors.dll
+E:\Webcam\Webcam\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Webcam\Webcam\bin\x64\Debug\System.ValueTuple.dll
+E:\Webcam\Webcam\bin\x64\Debug\HandyControl.xml
+E:\Webcam\Webcam\bin\x64\Debug\Newtonsoft.Json.xml
+E:\Webcam\Webcam\bin\x64\Debug\OpenCvSharp.xml
+E:\Webcam\Webcam\bin\x64\Debug\OpenCvSharp.Extensions.xml
+E:\Webcam\Webcam\bin\x64\Debug\System.Buffers.xml
+E:\Webcam\Webcam\bin\x64\Debug\System.Memory.xml
+E:\Webcam\Webcam\bin\x64\Debug\System.Numerics.Vectors.xml
+E:\Webcam\Webcam\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Webcam\Webcam\bin\x64\Debug\System.ValueTuple.xml
+E:\Webcam\Webcam\obj\x64\Debug\Webcam.csproj.AssemblyReference.cache
+E:\Webcam\Webcam\obj\x64\Debug\UI\CheckBoxStyles.baml
+E:\Webcam\Webcam\obj\x64\Debug\UI\ComboBoxStyles.baml
+E:\Webcam\Webcam\obj\x64\Debug\UI\TextBoxStyles.baml
+E:\Webcam\Webcam\obj\x64\Debug\MainWindow.g.cs
+E:\Webcam\Webcam\obj\x64\Debug\App.g.cs
+E:\Webcam\Webcam\obj\x64\Debug\Webcam_Content.g.cs
+E:\Webcam\Webcam\obj\x64\Debug\Webcam_MarkupCompile.cache
+E:\Webcam\Webcam\obj\x64\Debug\Webcam_MarkupCompile.lref
+E:\Webcam\Webcam\obj\x64\Debug\App.baml
+E:\Webcam\Webcam\obj\x64\Debug\MainWindow.baml
+E:\Webcam\Webcam\obj\x64\Debug\Webcam.g.resources
+E:\Webcam\Webcam\obj\x64\Debug\Webcam.Properties.Resources.resources
+E:\Webcam\Webcam\obj\x64\Debug\Webcam.csproj.GenerateResource.cache
+E:\Webcam\Webcam\obj\x64\Debug\Webcam.csproj.CoreCompileInputs.cache
+E:\Webcam\Webcam\obj\x64\Debug\Webcam.csproj.CopyComplete
+E:\Webcam\Webcam\obj\x64\Debug\Webcam.exe
+E:\Webcam\Webcam\obj\x64\Debug\Webcam.pdb
+C:\Data Disk\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\Webcam.csproj.AssemblyReference.cache
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\Webcam.exe.config
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\Webcam.exe
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\Webcam.pdb
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\HandyControl.dll
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\OpenCvSharp.dll
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\OpenCvSharp.Extensions.dll
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\System.Buffers.dll
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\System.Drawing.Common.dll
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\System.Memory.dll
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\System.ValueTuple.dll
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\HandyControl.xml
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\OpenCvSharp.xml
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\OpenCvSharp.Extensions.xml
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\System.Buffers.xml
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\System.Memory.xml
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Chimingkuei\repos\Webcam\Webcam\bin\x64\Debug\System.ValueTuple.xml
+D:\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\Webcam.csproj.AssemblyReference.cache
+D:\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\UI\CheckBoxStyles.baml
+D:\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\UI\ComboBoxStyles.baml
+D:\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\UI\TextBoxStyles.baml
+D:\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\MainWindow.g.cs
+D:\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\App.g.cs
+D:\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\Webcam_Content.g.cs
+D:\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\Webcam_MarkupCompile.cache
+D:\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\Webcam_MarkupCompile.lref
+D:\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\App.baml
+D:\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\MainWindow.baml
+D:\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\Webcam.g.resources
+D:\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\Webcam.Properties.Resources.resources
+D:\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\Webcam.csproj.GenerateResource.cache
+D:\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\Webcam.csproj.CoreCompileInputs.cache
+D:\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\Webcam.exe
+D:\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\Webcam.pdb
+D:\Chimingkuei\repos\Webcam\Webcam\obj\x64\Debug\Webcam.csproj.Up2Date
